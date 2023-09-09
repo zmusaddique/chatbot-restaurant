@@ -11,7 +11,6 @@ This project is a chatbot implemented using Dialogflow for natural language unde
 - [Project Structure](#project-structure)
 - [Acknowledgements](#acknowledgments)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Project Overview
@@ -83,10 +82,6 @@ This project was built following the tutorial by Dhaval Patel on the Codebasics 
 ## Contributing
 
 Contributions to this project are welcome. You can contribute by submitting bug reports, feature requests, or pull requests to enhance the functionality or fix issues.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
